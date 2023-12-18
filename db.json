@@ -1,3 +1,46 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "id": "1",
+      "title": "React",
+      "content": "Redux Thunk",
+      "isDone": true
+    },
+    {
+      "id": "2",
+      "title": "React",
+      "content": "Redux Toolkit",
+      "isDone": true
+    },
+    {
+      "id": "4",
+      "title": "React",
+      "content": "TypeScript",
+      "isDone": true
+    },
+    {
+      "id": "a47b078a-efa3-d25f-a690-57fd22c15c24",
+      "title": "typescript",
+      "content": "complete",
+      "isDone": false
+    },
+    {
+      "id": "2916cc45-1fc5-d2f3-695b-3031249e0702",
+      "title": "Redux",
+      "content": "json server",
+      "isDone": true
+    },
+    {
+      "id": "24dd0555-10d8-dad1-ade8-cea7c801d387",
+      "title": "Javascript",
+      "content": "Next.js",
+      "isDone": false
+    },
+    {
+      "id": "15e396f0-19e8-9136-ed62-979c10dab340",
+      "title": "final Project",
+      "content": "team building",
+      "isDone": false
+    }
+  ]
 }
